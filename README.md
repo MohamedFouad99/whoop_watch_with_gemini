@@ -1,16 +1,27 @@
-# whoop_watch_with_gemini
+# WHOOP Watch ⌚ with Gemini ✨ 
 
-A new Flutter project.
+## 🚀 Overview
 
-## Getting Started
+#### WHOOP Watch with Gemini is a Flutter application that integrates WHOOP sleep data with Gemini AI. The app fetches users' sleep data from WHOOP and provides AI-driven insights and suggestions for improving sleep quality.
 
-This project is a starting point for a Flutter application.
+# 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+#### ✅ OAuth2 Authentication: Secure login with WHOOP API.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### ✅ Sleep Data Retrieval: Fetches sleep data upon initialization.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### ✅ AI-Powered Insights: Sends sleep data to Gemini AI for analysis and improvement suggestions.
+
+#### ✅ Chat Integration: Merges with an existing Gemini AI chat system for user interaction.
+
+# 🛠 Technologies Used
+
+#### Flutter
+
+#### Dart
+
+#### WHOOP Developer API
+
+#### OAuth2 Package
+
+#### Gemini AI API
